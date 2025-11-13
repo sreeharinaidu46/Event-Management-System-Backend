@@ -42,8 +42,7 @@ Example added entries:
 
 ```
 node_modules/
-npm-debug.log
-.env
+
 ```
 
 ### 1.3 Assets Folder
