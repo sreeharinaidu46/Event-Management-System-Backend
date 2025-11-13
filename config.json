@@ -1,0 +1,6 @@
+{
+  "PORT": 3000,
+  "API_BASE": "http://event.com",
+  "FAILURE_WINDOW_MS": 30000,
+  "BACKOFF_MS": 5000
+}
